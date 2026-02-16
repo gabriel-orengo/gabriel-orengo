@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Next.js and DevOps**
 - 👨‍💻 All of my projects are available at [https://github.com/gabriel-orengo?tab=repositories](https://github.com/gabriel-orengo?tab=repositories)
 - 📫 How to reach me: gabriel_orengonegron@proton.me
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/they
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
